@@ -42,3 +42,31 @@ Used in later stages to communicate final layout and user experience to develope
 
 **Example:**  
 A grayscale wireframe showing an exact login form with real labels, button placement, and spacing aligned with the design system.
+
+
+## 🛠️ Popular Wireframing Tools
+
+There are several tools available to help designers create wireframes efficiently. These tools range from simple drag-and-drop editors to advanced collaborative platforms. Some popular wireframing tools include:
+
+- **Figma** (highly recommended)
+- Adobe XD
+- Sketch
+- Balsamiq
+- Wireframe.cc
+- Lucidchart
+
+### ⭐ Why Figma Stands Out
+
+**Figma** is a cloud-based design and prototyping tool known for its collaboration features and intuitive interface. It allows multiple team members to work on the same file in real time, making it perfect for teams.
+
+#### 🔑 Key Features:
+- Browser-based (no downloads needed)
+- Real-time collaboration and comments
+- Components and reusable styles
+- Easy prototyping and linking between frames
+- Plugins and templates for fast wireframing
+
+**Why it’s great for wireframing:**  
+Figma supports both low-fidelity and high-fidelity wireframes, making it flexible for early sketches and polished layouts. Its drag-and-drop UI elements, layout grids, and vector tools speed up the wireframing process significantly.
+
+
